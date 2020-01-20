@@ -1,3 +1,4 @@
+version = 1
 [update]
 always = true
 require_automerge_label = false
